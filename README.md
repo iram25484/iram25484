@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iram25484
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C language 
+- Im a webdeveloper with a strong hand in frontend 
+- 🌱 iI'm a dsa enthusiast
 - 💞️ I’m looking to collaborate on I don't know can you help ? 
 - 📫 How to reach me iram25484@gnail.com
 
